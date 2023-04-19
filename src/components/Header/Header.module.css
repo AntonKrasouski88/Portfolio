@@ -1,7 +1,8 @@
 .header {
     height: 80px;
-    background-color: aliceblue;
-    display: flex;
+    background-color: #d1e9ff;
+}
+
+.container {
     justify-content: flex-end;
-    align-items: center;
 }
